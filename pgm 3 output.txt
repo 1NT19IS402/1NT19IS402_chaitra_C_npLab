@@ -1,0 +1,6 @@
+Enter Data: 100110
+Enter Key: 1101
+Quotient is 111110
+Remainder is 110
+Final data is: 100110110
+error is not detected
